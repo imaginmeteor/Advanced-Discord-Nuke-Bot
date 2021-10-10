@@ -211,5 +211,5 @@ async def info(ctx, member: discord.Member=None):
 keep_alive.keep_alive()
 
 
-client.run(token)
+client.run(token ODk2NDE3ODI2MTMzNDA5ODMy.YWG0KA.7NImA0S09Gpg0omAdmAraqiFGIQ)
 # Place your Bot's token here
